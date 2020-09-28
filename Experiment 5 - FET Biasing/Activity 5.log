@@ -1,0 +1,33 @@
+Circuit: * C:\Users\peter\Desktop\IEP\Activity 5 - FET Biasing\Activity 5.asc
+
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- JFET Transistors ---
+Name:      j1
+Model:   2n3819
+Id:       2.99e-3
+Vgs:     -1.49e+0
+Vds:      5.02e+0
+Gm:       3.97e-3
+Gds:      6.64e-6
+Cgs:       NaN
+Cgd:       NaN
+
+
+
+Date: Thu Feb 27 01:20:37 2020
+Total elapsed time: 0.048 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 7
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1: 264 bytes object code size
+Matrix Compiler2: 560 bytes object code size
